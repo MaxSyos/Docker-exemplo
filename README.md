@@ -2,7 +2,7 @@
   <img width="250" height="120" src="https://hasura.io/blog/content/images/downloaded_images/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4/1-4KhmpXFJ_Etczs6awRnAbg.png">
 </p>
   
-# Express Docker App 
+# Express Docker DataBase 
 This repo helps you to get started with ExpressJs in docker Environment.
 
 
@@ -10,12 +10,12 @@ This repo helps you to get started with ExpressJs in docker Environment.
   
 - Build Command
   ```bash
-      docker build . -t your-name/express-docker-app
+      docker build . -t YOUR-NAME/express-docker-app
 
   ```
 - Run Command
   ```bash
-      docker run -p 8000:8080 -d your-name/express-docker-app
+      docker run -p 8000:8080 -d YOUR-NAME/express-docker-app
 
   ``` 
 - List Containers
@@ -34,7 +34,7 @@ This repo helps you to get started with ExpressJs in docker Environment.
 Clone the project
 
 ```bash
-  git clone https://github.com/bhimrazy/express-app-with-docker-setup
+  git clone https://github.com/MaxSyos/Docker_Template_Backend.git
 ```
 
 Go to the project directory
